@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Wells Fargo Emergency Cushion</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <h1>💸 Wells Fargo Emergency Cushion</h1>
+    <p>Fast, fair financial help whenever life brings the unexpected.</p>
+
+    <!-- Moment Triggers -->
+    <div class="moments">
+      <button onclick="setEmergency(500)">🚗 Car Repair</button>
+      <button onclick="setEmergency(1000)">🏠 Rent</button>
+      <button onclick="setEmergency(800)">🏥 Medical Bill</button>
+      <button onclick="setEmergency(0)">✨ Other</button>
+    </div>
+
+    <hr>
+
+    <!-- Manual Inputs -->
+    <input id="income" type="number" placeholder="Monthly Income"><br>
+    <input id="expenses" type="number" placeholder="Monthly Expenses"><br>
+    <input id="amount" type="number" placeholder="Requested Amount"><br>
+    <button class="primary" onclick="requestLoan()">Request Loan</button>
+
+    <div id="result"></div>
+    <div id="coach"></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
