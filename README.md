@@ -23,9 +23,10 @@ We transform a stressful financial moment into a moment of **support + empowerme
 - ✅ Loan Approved → shows repayment plan + confidence tip.  
 - ❌ Loan Denied → supportive coaching advice, not just rejection.  
 
-<img src="image-1.png" alt="Demo Screenshot 1" width="400"/>
-<img src="image-2.png" alt="Demo Screenshot 2" width="400"/>
-<img src="image-3.png" alt="Demo Screenshot 3" width="400"/>
+<img src="/Users/pranjalganvir/Documents/GitHub/Emergency_Cushion_GCAxWF/image-1.png" alt="Demo Screenshot 1" width="400"/>
+<img src="/Users/pranjalganvir/Documents/GitHub/Emergency_Cushion_GCAxWF/image-2.png" alt="Demo Screenshot 2" width="400"/>
+<img src="/Users/pranjalganvir/Documents/GitHub/Emergency_Cushion_GCAxWF/image-3.png" alt="Demo Screenshot 3" width="400"/>
+
 
 
 ---
