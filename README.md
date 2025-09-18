@@ -62,9 +62,10 @@ Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - nginx  
 
 ---
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+<img src="https://raw.githubusercontent.com/Pranjal-ganvir12/Emergency_Cushion_GCAxWF/main/image-1.png" alt="Demo Screenshot 1" width="400"/>
+<img src="https://raw.githubusercontent.com/Pranjal-ganvir12/Emergency_Cushion_GCAxWF/main/image-2.png" alt="Demo Screenshot 2" width="400"/>
+<img src="https://raw.githubusercontent.com/Pranjal-ganvir12/Emergency_Cushion_GCAxWF/main/image-3.png" alt="Demo Screenshot 3" width="400"/>
+
 
 ## 📌 Future Improvements
 - Integration with real Wells Fargo data systems  
