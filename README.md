@@ -62,6 +62,9 @@ Go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - nginx  
 
 ---
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
 ## 📌 Future Improvements
 - Integration with real Wells Fargo data systems  
