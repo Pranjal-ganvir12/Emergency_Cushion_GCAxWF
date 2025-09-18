@@ -25,9 +25,11 @@ We transform a stressful financial moment into a moment of **support + empowerme
 
 <img src="image-1.png" alt="Demo Screenshot 1" width="400"/>
 <img src="image-2.png" alt="Demo Screenshot 2" width="400"/>
-<img src="image-3.png" alt="Demo Screenshot 3" width="400"/>
+<img src="/Users/pranjalganvir/Documents/GitHub/Emergency_Cushion_GCAxWF/image-3.png" alt="Demo Screenshot 3" width="400"/>
 
-
+![alt text](image-1.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 ---
 
