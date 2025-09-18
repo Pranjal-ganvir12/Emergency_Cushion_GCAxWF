@@ -1,27 +1,35 @@
-# Emergency_Cushion_GCAxWF
-💸 Wells Fargo Emergency Cushion
-🚨 The Problem
+# 💸 Wells Fargo Emergency Cushion
 
-When life hits with the unexpected — car repairs, rent, medical bills, or paycheck delays — too many people are forced into predatory payday loans that create cycles of debt and stress.
+---
 
-🌟 Our Solution
+## 🚨 The Problem
+When life hits with the unexpected — car repairs, rent, medical bills, or paycheck delays — too many people are forced into **predatory payday loans** that create cycles of debt and stress.  
 
-Wells Fargo Emergency Cushion is a prototype tool that provides:
+---
 
-⚡ Instant loan decisioning (fair + fast, powered by ML).
+## 🌟 Our Solution
+**Wells Fargo Emergency Cushion** is a prototype tool that provides:
 
-📅 Clear repayment plans (no confusing terms, no hidden fees).
+- ⚡ **Instant loan decisioning** (fair + fast, powered by ML).  
+- 📅 **Clear repayment plans** (no confusing terms, no hidden fees).  
+- 💡 **Confidence Coach tips** that empower, not shame, customers.  
+- 🎨 **Wells Fargo–themed UI** for trust + brand familiarity.  
 
-💡 Confidence Coach tips that empower, not shame, customers.
+We transform a stressful financial moment into a moment of **support + empowerment**.  
 
-🎨 Wells Fargo–themed UI for trust + brand familiarity.
+---
 
-We transform a stressful financial moment into a moment of support + empowerment.
+## 🖥️ Demo
+- ✅ Loan Approved → shows repayment plan + confidence tip.  
+- ❌ Loan Denied → supportive coaching advice, not just rejection.  
 
-🖥️ Demo Screens
+![alt text](image-1.png)
 
-✅ Loan Approved (fair repayment plan shown)
+---
 
-❌ Loan Denied (coach gives advice instead of rejection)
+## ⚙️ How to Run Locally
 
-(Add screenshots or a GIF here for safety — judges will love it)
+### 1. Clone this repo
+```bash
+git clone <your-repo-url>
+cd Emergency_Cushion_GCAxWF
