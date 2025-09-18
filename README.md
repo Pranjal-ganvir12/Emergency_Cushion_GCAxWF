@@ -24,10 +24,6 @@ We transform a stressful financial moment into a moment of **support + empowerme
 - ❌ Loan Denied → supportive coaching advice, not just rejection.  
 
 
-![alt text](image-1.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-
 ---
 
 ## ⚙️ How to Run Locally
